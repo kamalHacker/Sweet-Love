@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(ImagesDating/swans-couple-heart-uhdpaper.com-4K-8.1501.jpg);
+    background-size: cover;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding-left: 2vw;
+    margin-right: 0;
+}
+.heart-logo{
+    width: 4vw;
+    height: 6vh;
+    margin-right: 0;
+    padding: 0;
+}
+.logo-img{
+    width: 15vw;
+    height: 18vh;
+    margin-left: 0;
+    padding: 0;
+}
